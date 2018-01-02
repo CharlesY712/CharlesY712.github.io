@@ -7,3 +7,6 @@
 [submodule "cy-comp-challenge-2"]
 	path = cy-comp-challenge-2
 	url = https://github.com/CharlesY712/cy-comp-challenge-2.git
+[submodule "cy-comp-challenge-3"]
+	path = cy-comp-challenge-3
+	url = git@github.com:CharlesY712/cy-comp-challenge-3.git
